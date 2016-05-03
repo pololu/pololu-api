@@ -1,0 +1,50 @@
+#sidebar {
+  width: 300px;
+}
+
+#container {
+  position: relative;
+}
+
+#main {
+  position: absolute;
+  top: 0;
+  left: 310px;
+}
+
+#sidebar li {
+  list-style-type: none;
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
+}
+
+a.plus {
+  display: inline-block;
+  box-sizing: border-box;
+  width: 1.1em;
+  margin-right: 5px;
+  margin-left: -40px;
+  text-decoration: none;
+  font-weight: bold;
+  text-align: center;
+  line-height: 15px;
+}
+
+a.plus.visible {
+  border: 2px outset #aaaaaa;
+  border-radius: 4px;
+}
+
+a.plus.visible:link, a.plus.visible:visited, a.plus.visible:hover {
+  color: black;
+}
+
+a.plus.visible:active {
+  background-color: #aaaaff;
+  color: white;
+}
+
+.other_picture {
+  max-width: 300px;
+  max-height: 300px;
+}
