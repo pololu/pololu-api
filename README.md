@@ -152,6 +152,11 @@ containing newlines (like web pages) are particularly difficult to
 handle with CSV and in typical spreadsheet software, so we recommend
 limiting the fields if you need to use CSV (see "Sparse fieldsets", below).
 
+**Note:** Some versions of Microsoft Excel are only capable of
+handling multi-line fields in a CSV if you save the data as a `.csv`
+file and open it by double-clicking.  Doing a "text import" from
+within Excel will cause data corruption.
+
 ## Pagination
 
 Some requests return long lists of entries; these lists are paginated
