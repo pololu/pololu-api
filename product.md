@@ -16,6 +16,8 @@ captions in the product web page, might not affect this value.
 
 `name` - The product name.
 
+`status` - The product's [status designation](https://www.pololu.com/product-status).
+
 `short_description` - A few sentences (in HTML format) describing
 the most important aspects of the product.
 
@@ -59,6 +61,8 @@ product.  If it is larger than `stock_available`, that means we
 accept backorders.
 
 ## Relationships
+
+`brand` - The product's brand.
 
 `main_picture` - The main picture of the product.
 

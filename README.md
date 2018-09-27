@@ -188,11 +188,20 @@ You can also read
 [the JSON API documentation](http://jsonapi.org/format/#fetching-sparse-fieldsets)
 for for information on sparse fieldsets.
 
+## Filtering
+
+You can limit your result set by adding a `filter` parameter, which is
+a comma-separated list of record IDs to return.  For example, this
+query returns the stock of our A-Star Mini boards:
+
+[https://www.pololu.com/api/v2/product.yaml?fields[product]=name,stock_available&filter=3102,3103,3145](https://www.pololu.com/api/v2/product.yaml?fields[product]=name,stock_available&filter=3102,3103,3145)
+
 ## Objects and fields available in the API
 
 Please make sure to read the description of each field that you are
 planning to use in the pages below:
 
+* [brand](brand.md)
 * [category](category.md)
 * [picture](picture.md)
 * [product](product.md)
