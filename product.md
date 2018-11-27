@@ -79,3 +79,5 @@ belongs to.
 product (for example, "Wires" might be related to "Breadboards").
 
 `related_products` - A list of other products related to this one.
+
+`specifications` - A list of [specifications](specification.md).

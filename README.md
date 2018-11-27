@@ -63,6 +63,18 @@ basically like this:
             "url": "https://a.pololu-files.com/picture/0J2415.1200.jpg?4f523fc7b561d69b453a7f38c8446991",
             "caption": "Pololu 3pi robot."
         }
+    },
+    {
+      "links": {
+        "self": "https://www.pololu.com/api/v2/specification/0J442.json"
+      },
+      "type": "specification",
+      "id": "0J442",
+      "attributes": {
+        "parameter_name": "processor",
+        "text_value": "ATmega328P",
+        "footnote": ""
+      }
     }]
 }
 ```
@@ -208,6 +220,7 @@ planning to use in the pages below:
 * [picture](picture.md)
 * [product](product.md)
 * [resource](resource.md)
+* [specification](specification.md)
 
 ## API versions
 
