@@ -25,3 +25,7 @@
 `numerical_value_in_si_units` - The value converted to standard SI units such as meters and seconds. This is useful for sorting or for unit conversions.
 
 `footnote` - An important note that should be displayed near the specification.
+
+## Relationships
+
+`product` - The product corresponding to this specification.
