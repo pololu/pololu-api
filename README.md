@@ -113,6 +113,12 @@ you rely on the data being correct, you are doing so at your own
 risk.  We recommend checking all data returned by the API before
 using it in your own system.
 
+## Content license disclaimer
+
+API data may be copyrighted by Pololu and/or other parties. When we
+grant you access to the API, that does not imply any permission or
+license to distribute copyrighted content.
+
 ## Getting access to the API
 
 To get access to the API, please
