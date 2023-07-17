@@ -6,75 +6,84 @@ interested customers to download information about our products, in
 JSON, CSV, or YAML format.  For the most part, it mirrors information
 that is already available on our website, but in a format that is easy
 to read into a computer program.  As an example,
-[click here](example_product_975.json) to view the API data for
-[the 3pi robot](https://www.pololu.com/product/975).  It looks
+[click here](example_product_5001.json) to view the API data for
+[the 3pi+ 2040 robot](https://www.pololu.com/product/5001).  It looks
 basically like this:
 
 ```javascript
 {
     "links": {
-        "self": "https://www.pololu.com/api/v2/product/975.json"
+        "self": "https://www.pololu.com/api/v2/product/5001.json"
     },
     "data": {
         "type": "product",
-        "id": "975",
+        "id": "5001",
         "attributes": {
-            "modification_time": "2015-12-16T14:52:06.000-08:00",
-            "on_website_date": "2008-07-23T19:43:52.000-07:00",
-            "name": "Pololu 3pi Robot",
-            "suggested_schedule_b_code": "8542.31.0000",
-            "suggested_hs_code": "854231",
-            "short_description": "<p>The Pololu 3pi robot is a complete, high-performance mobile platform featuring two micro metal gearmotors...",
-            "web_page": "<h3>Overview</h3>\n<p>The 3pi robot is designed to excel in line-following and maze-solving competitions.  It has a small size...",
-            "main_picture_id": "0J2415",
-            "discontinued": false,
-            "discontinued_description": "",
-            "description_for_customs": "hobby/educational electronic kit",
-            "country_of_origin": "USA",
-            "for_sale_with_coupon_only": false,
-            "weight_ounces": "5.0",
-            "url": "https://www.pololu.com/product/975",
-            "prices": [{
-                "quantity": 1,
-                "regular_price": 99.95
-            }, {
-                "quantity": 10,
-                "regular_price": 89.95
-            }],
-            "stock_available": 177,
-            "maximum_order": 277
+            "name": "3pi+ 2040 Robot - Standard Edition (30:1 MP Motors), Assembled",
+            "on_website_date": "2023-05-24",
+            "unavailable_notes": "",
+            "on_sale_through": null,
+            "stock_available": 15,
+            "non_stock": false,
+            "maximum_order": 315,
+            "modification_time": "2023-05-24T16:02:06.000-07:00",
+            "status": "Active and Preferred",
+            "rohs3_compliant": "yes",
+            "short_description": "<p>The Pololu 3pi+ 2040 robot is a palm-sized, high-performance mobile platform based on the Raspberry Pi RP2040 MCU...",
+            "web_page": "<h2>Overview</h2>\n<p>The 3pi+ 2040 is a versatile, high-performance, user-programmable robot that measures just 9.7&nbsp;cm (3.8″)...",
+            "url": "https://www.pololu.com/product/5001",
+            "bar_codes": [
+                {
+                    "bar_code": "!a\"X9",
+                    "start_selling_year": null,
+                    "stop_selling_year": null
+                }
+            ],
+            "prices": [
+                {
+                    "quantity": 1,
+                    "regular_price": 159.95
+                },
+                {
+                    "quantity": 5,
+                    "regular_price": 147.15
+                }
+            ]
         },
         "relationships": {
             "main_picture": {
                 "data": {
                     "type": "picture",
-                    "id": "0J2415"
+                    "id": "0J12003"
                 }
             }
         }
     },
     "included": [{
-        "links": {
-            "self": "https://www.pololu.com/api/v2/picture/0J2415.json"
+        {
+            "links": {
+                "self": "https://www.pololu.com/api/v2/picture/0J12003.json"
+            },
+            "type": "picture",
+            "id": "0J12003",
+            "attributes": {
+                "url": "https://a.pololu-files.com/picture/0J12003.1200.jpg?afe1131c6d71cc10bc34d0244f259d84",
+                "caption": "3pi+ 2040 Robot.",
+                "has_watermark": false
+            }
         },
-        "type": "picture",
-        "id": "0J2415",
-        "attributes": {
-            "url": "https://a.pololu-files.com/picture/0J2415.1200.jpg?4f523fc7b561d69b453a7f38c8446991",
-            "caption": "Pololu 3pi robot."
+        {
+            "links": {
+                "self": "https://www.pololu.com/api/v2/specification/0J25188.json"
+            },
+            "type": "specification",
+            "id": "0J25188",
+            "attributes": {
+                "parameter_name": "processor",
+                "text_value": "RP2040 @ 125 MHz",
+                "footnote": ""
+            }
         }
-    },
-    {
-      "links": {
-        "self": "https://www.pololu.com/api/v2/specification/0J442.json"
-      },
-      "type": "specification",
-      "id": "0J442",
-      "attributes": {
-        "parameter_name": "processor",
-        "text_value": "ATmega328P",
-        "footnote": ""
-      }
     }]
 }
 ```
@@ -134,9 +143,9 @@ other requests using your API key, so it is important to keep it
 private.  If you would like to reset or cancel your key, please let us
 know.
 
-You can try it out by loading the URL for the 3pi:
+You can try it out by loading the URL for the 3pi+:
 
-[https://www.pololu.com/api/v2/product/975.json](https://www.pololu.com/api/v2/product/975.json)
+[https://www.pololu.com/api/v2/product/5001.json](https://www.pololu.com/api/v2/product/5001.json)
 
 **Username:** *Your API key.*<br>
 **Password:** *Blank.*
@@ -145,9 +154,9 @@ You can try it out by loading the URL for the 3pi:
 
 We support three different data formats:
 
-* **JSON:** [https://www.pololu.com/api/v2/product/975.json](https://www.pololu.com/api/v2/product/975.json)
-* **YAML:** [https://www.pololu.com/api/v2/product/975.yaml](https://www.pololu.com/api/v2/product/975.yaml)
-* **CSV:** [https://www.pololu.com/api/v2/product/975.csv](https://www.pololu.com/api/v2/product/975.csv)
+* **JSON:** [https://www.pololu.com/api/v2/product/5001.json](https://www.pololu.com/api/v2/product/5001.json)
+* **YAML:** [https://www.pololu.com/api/v2/product/5001.yaml](https://www.pololu.com/api/v2/product/5001.yaml)
+* **CSV:** [https://www.pololu.com/api/v2/product/5001.csv](https://www.pololu.com/api/v2/product/5001.csv)
 
 [JSON](http://www.json.org/) is the standard for JSON API and probably
 the best choice for anyone using our API within their own custom
@@ -202,7 +211,7 @@ lets you simplify your results, restricting them to just the fields
 you want.  For example, this query fetches the pricing, name, and
 main picture of the 3pi:
 
-[https://www.pololu.com/api/v2/product/975.yaml?fields[product]=name,prices,main_picture](https://www.pololu.com/api/v2/product/975.yaml?fields[product]=name,prices,main_picture)
+[https://www.pololu.com/api/v2/product/5001.yaml?fields[product]=name,prices,main_picture](https://www.pololu.com/api/v2/product/5001.yaml?fields[product]=name,prices,main_picture)
 
 You can also read
 [the JSON API documentation](http://jsonapi.org/format/#fetching-sparse-fieldsets)

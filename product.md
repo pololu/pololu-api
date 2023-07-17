@@ -4,7 +4,7 @@
 
 [https://www.pololu.com/api/v2/product.json](https://www.pololu.com/api/v2/product.json)
 
-[https://www.pololu.com/api/v2/product/975.json](https://www.pololu.com/api/v2/product/975.json)
+[https://www.pololu.com/api/v2/product/5001.json](https://www.pololu.com/api/v2/product/5001.json)
 
 ## Attributes
 
@@ -59,6 +59,8 @@ ship immediately.
 `maximum_order` - The largest order we will currently accept for this
 product.  If it is larger than `stock_available`, that means we
 accept backorders.
+
+`bar_codes` - An array of descriptions of product label bar codes that we have used for this product. Includes the code itself as well as the years in which we started and stopped using those codes, if applicable. Note that the codes are compressed strings using many special characters, such as `!a"X<`.
 
 ## Relationships
 
