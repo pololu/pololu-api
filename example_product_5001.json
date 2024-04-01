@@ -17,8 +17,31 @@
         "type": "product",
         "id": "5001",
         "attributes": {
+            "modification_time": "2023-11-21T13:39:12.000-08:00",
             "on_website_date": "2023-05-24",
+            "name": "3pi+ 2040 Robot - Standard Edition (30:1 MP Motors), Assembled",
+            "status": "Active and Preferred",
+            "rohs3_compliant": "yes",
+            "short_description": "<p>The Pololu 3pi+ 2040 robot is a palm-sized, high-performance mobile platform based on the Raspberry Pi RP2040 MCU.  Its many features include dual quadrature encoders for closed-loop speed or position control, line sensors, front bump sensors, a full IMU (3-axis accelerometer, magnetometer, and gyro), six RGB LEDs, and a graphical OLED display.  This <strong>Standard Edition</strong> version is assembled with 30:1 MP 6V Micro Metal Gearmotors, which offer a good combination of speed and controllability.</p>\n",
+            "web_page": "<h2>Overview</h2>\n<p>The 3pi+ 2040 is a versatile, high-performance, user-programmable robot that measures just 9.7&nbsp;cm (3.8″) in diameter.  At its heart is a Raspberry Pi RP2040 microcontroller (like the one on the Raspberry Pi Pico), a 32-bit dual-core Arm Cortex-M0+ processor running at 125 MHz, which can be programmed with C, C++, Arduino, or Python.  The 3pi+ 2040 has 16 MB (128 Mbit) of flash memory that ships preloaded with a MicroPython interpreter, so you can get started right away by plugging into its USB C port and editing the included example Python programs.  For advanced users who want to customize or enhance their robots with additional peripherals, the robot&#8217;s power rails, power system controls, and microcontroller&#8217;s I/O lines can be accessed via several 0.1″-pitch expansion ports.</p>\n<table class=\"side_by_side_pics\">\n\t<tr>\n\t\t<td><table class=\"picture_with_caption right\"><tr><td style=\"max-width: 220px\"><a href=\"/picture/0J12006.1200.jpg?6393c76c25b38cfddb9bce3ac10428fe\" class=\"noscript-fallback\"><img alt=\"\" class=\"zoomable\" data-gallery-pictures=\"[{&quot;id&quot;:&quot;0J12006&quot;,&quot;caption&quot;:&quot;\\u003cp\\u003e3pi+ 2040 Robot, front view.\\u003c/p\\u003e&quot;,&quot;url_tiny&quot;:&quot;/picture/0J12006.98x98.jpg?6393c76c25b38cfddb9bce3ac10428fe&quot;,&quot;url_medium&quot;:&quot;/picture/0J12006.600x480.jpg?6393c76c25b38cfddb9bce3ac10428fe&quot;,&quot;url_full&quot;:&quot;/picture/0J12006.1200.jpg?6393c76c25b38cfddb9bce3ac10428fe&quot;,&quot;longest_side&quot;:1200}]\" data-picture-id=\"0J12006\" data-picture-longest_side=\"1200\" src=\"/picture/0J12006.220.jpg?6393c76c25b38cfddb9bce3ac10428fe\" /></a></td></tr><tr><th style=\"max-width: 220px\"><p>3pi+ 2040 Robot, front view.</p></th></tr></table></td>\n\t\t<td><table class=\"picture_with_caption right\"><tr><td style=\"max-width: 220px\"><a href=\"/picture/0J12007.1200.jpg?c4b69707ad345a134bbe042997da7ecc\" class=\"noscript-fallback\"><img alt=\"\" class=\"zoomable\" data-gallery-pictures=\"[{&quot;id&quot;:&quot;0J12007&quot;,&quot;caption&quot;:&quot;\\u003cp\\u003e3pi+ 2040 Robot, side view.\\u003c/p\\u003e&quot;,&quot;url_tiny&quot;:&quot;/picture/0J12007.98x98.jpg?c4b69707ad345a134bbe042997da7ecc&quot;,&quot;url_medium&quot;:&quot;/picture/0J12007.600x480.jpg?c4b69707ad345a134bbe042997da7ecc&quot;,&quot;url_full&quot;:&quot;/picture/0J12007.1200.jpg?c4b69707ad345a134bbe042997da7ecc&quot;,&quot;longest_side&quot;:1200}]\" data-picture-id=\"0J12007\" data-picture-longest_side=\"1200\" src=\"/picture/0J12007.220.jpg?c4b69707ad345a134bbe042997da7ecc\" /></a></td></tr><tr><th style=\"max-width: 220px\"><p>3pi+ 2040 Robot, side view.</p></th></tr></table></td>\n\t\t<td><table class=\"picture_with_caption right\"><tr><td style=\"max-width: 220px\"><a href=\"/picture/0J12008.1200.jpg?e92efa8b917af15352a391274b2d8177\" class=\"noscript-fallback\"><img alt=\"\" class=\"zoomable\" data-gallery-pictures=\"[{&quot;id&quot;:&quot;0J12008&quot;,&quot;caption&quot;:&quot;\\u003cp\\u003e3pi+ 2040 Robot, rear view.\\u003c/p\\u003e&quot;,&quot;url_tiny&quot;:&quot;/picture/0J12008.98x98.jpg?e92efa8b917af15352a391274b2d8177&quot;,&quot;url_medium&quot;:&quot;/picture/0J12008.600x480.jpg?e92efa8b917af15352a391274b2d8177&quot;,&quot;url_full&quot;:&quot;/picture/0J12008.1200.jpg?e92efa8b917af15352a391274b2d8177&quot;,&quot;longest_side&quot;:1200}]\" data-picture-id=\"0J12008\" data-picture-longest_side=\"1200\" src=\"/picture/0J12008.220.jpg?e92efa8b917af15352a391274b2d8177\" /></a></td></tr><tr><th style=\"max-width: 220px\"><p>3pi+ 2040 Robot, rear view.</p></th></tr></table></td>\n\t</tr>\n</table>\n<p>The 3pi+ (or 3&#120587;+) 2040 features two H-bridge motor drivers and a variety of integrated sensors, including a pair of quadrature encoders for closed-loop motor control, a complete inertial measurement unit (3-axis accelerometer, gyro, and magnetometer), five downward-facing reflectance sensors for line-following or edge-detection, and left and right bump sensors along the front face of the robot. Three on-board pushbuttons offer a convenient interface for user input, and a 128×64 graphical OLED display, buzzer, and six RGB LEDs allow the robot to provide feedback.</p>\n<table class=\"picture_with_caption center wide\"><tr><td><a href=\"/picture/0J12017.1200.jpg?d1c609085b6b7fe8ca0e44a8ea946d2e\" class=\"noscript-fallback\"><img alt=\"\" class=\"wide zoomable\" data-gallery-pictures=\"[{&quot;id&quot;:&quot;0J12017&quot;,&quot;caption&quot;:&quot;\\u003cp\\u003e3pi+ 2040 Robot features, top view.\\u003c/p\\u003e&quot;,&quot;url_tiny&quot;:&quot;/picture/0J12017.98x98.jpg?d1c609085b6b7fe8ca0e44a8ea946d2e&quot;,&quot;url_medium&quot;:&quot;/picture/0J12017.600x480.jpg?d1c609085b6b7fe8ca0e44a8ea946d2e&quot;,&quot;url_full&quot;:&quot;/picture/0J12017.1200.jpg?d1c609085b6b7fe8ca0e44a8ea946d2e&quot;,&quot;longest_side&quot;:1200}]\" data-picture-id=\"0J12017\" data-picture-longest_side=\"1200\" src=\"/picture/0J12017.700.jpg?d1c609085b6b7fe8ca0e44a8ea946d2e\" /></a></td><p></tr></table>\n<table class=\"picture_with_caption center wide\"><tr><td><a href=\"/picture/0J12018.1200.jpg?40bb0a53e13fc25df4b5bda1dc77d390\" class=\"noscript-fallback\"><img alt=\"\" class=\"wide zoomable\" data-gallery-pictures=\"[{&quot;id&quot;:&quot;0J12018&quot;,&quot;caption&quot;:&quot;\\u003cp\\u003e3pi+ 2040 Robot features, bottom view.\\u003c/p\\u003e&quot;,&quot;url_tiny&quot;:&quot;/picture/0J12018.98x98.jpg?40bb0a53e13fc25df4b5bda1dc77d390&quot;,&quot;url_medium&quot;:&quot;/picture/0J12018.600x480.jpg?40bb0a53e13fc25df4b5bda1dc77d390&quot;,&quot;url_full&quot;:&quot;/picture/0J12018.1200.jpg?40bb0a53e13fc25df4b5bda1dc77d390&quot;,&quot;longest_side&quot;:1200}]\" data-picture-id=\"0J12018\" data-picture-longest_side=\"1200\" src=\"/picture/0J12018.700.jpg?40bb0a53e13fc25df4b5bda1dc77d390\" /></a></td></tr></table></p>\n<p>The robot also features a unique power system that runs the motors at a constant 8&nbsp;V independent of the battery charge level, so the speed of the motors does not vary with the battery voltage.</p>\n<p>The 3pi+ 2040 robot is available as a kit or fully assembled:</p>\n<table style=\"line-height:100%; text-align: right;\" class=\"reference\">\n\t<tr style=\"line-height: 150%;\">\n\t\t<th>3pi+ 2040 Version</th>\n\t\t<th>Products</th>\n\t\t<th>Micro Metal Gearmotor</th>\n\t\t<th>Top Speed</th>\n\t\t<th>Comments</th>\n\t</tr>\n\t<tr>\n\t\t<th>Standard Edition</th>\n\t\t<td style=\"text-align:center;\"><a href=\"https://www.pololu.com/product/5001\">assembled</a> or&nbsp;<a href=\"https://www.pololu.com/product/5004\">kit</a></td>\n\t\t<td style=\"text-align:center;\"><a href=\"https://www.pololu.com/product/2378\">30:1 MP 6V</a></td>\n\t\t<td>1.5&nbsp;m/s</td>\n\t\t<td style=\"text-align:left;\">good combination of speed and controllability</td>\n\t</tr>\n\t<tr>\n\t\t<th>Turtle Edition</th>\n\t\t<td style=\"text-align:center;\"><a href=\"https://www.pololu.com/product/5002\">assembled</a> or&nbsp;<a href=\"https://www.pololu.com/product/5005\">kit</a></td>\n\t\t<td style=\"text-align:center;\"><a href=\"https://www.pololu.com/product/2209\">75:1 LP 6V</a></td>\n\t\t<td>0.4&nbsp;m/s</td>\n\t\t<td style=\"text-align:left;\">longest battery life, easiest to control, good for swarm robots or introductory robotics courses</td>\n\t</tr>\n\t<tr>\n\t\t<th>Hyper Edition</th>\n\t\t<td style=\"text-align:center;\"><a href=\"https://www.pololu.com/product/5000\">assembled</a> or&nbsp;<a href=\"https://www.pololu.com/product/5003\">kit</a></td>\n\t\t<td style=\"text-align:center;\"><a href=\"https://www.pololu.com/product/4787\">15:1 HPCB 6V</a></td>\n\t\t<td>~4&nbsp;m/s</td>\n\t\t<td style=\"text-align:left;\"><strong>very fast and difficult to control, easy to damage</strong>; only recommended for advanced users</td>\n\t</tr>\n</table>\n<p>For those who would prefer to use <a href=\"https://www.pololu.com/category/141/micro-metal-gearmotors-with-extended-motor-shafts\">different motors</a> than these versions above, the <a href=\"https://www.pololu.com/product/3725\">3pi+ chassis</a> and <a href=\"https://www.pololu.com/product/5006\">3pi+ 2040 control board</a> are available separately and can be combined with a pair of motors to make a custom kit.</p>\n<h3>What else you will need</h3>\n<ul>\n\t<li>four <a href=\"https://www.pololu.com/product/1002\">AAA batteries</a>: the 3pi+ robot works with both alkaline and NiMH batteries, though we recommend rechargeable NiMH cells</li>\n\t<li>a USB C cable to connect the robot to your computer for programming and debugging</li>\n</ul>\n<h3>Assembling the kit version</h3>\n<p>The following video shows the steps to assemble a different version of the 3pi+ robot (the <a href=\"https://www.pololu.com/category/280/3pi-plus-32u4-oled-robot\">3pi+ 32U4 OLED robot</a>), but these steps generally remain the same for the 3pi+ 2040:</p>\n<div class=\"center\"><div class=\"video video_16_9\"><div>\n<iframe id=\"ytplayer\" type=\"text/html\" src=\"https://www.youtube.com/embed/D6UmjlBW8Ns?fs-1&rel=0&wmode=transparent\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>\n</div></div></div><p><br></p>\n<h2>\nDetails for item #5001\n</h2>\n<p>This product is the assembled <strong>Standard Edition</strong> of the 3pi+ 2040 Robot.  It features 30:1 MP 6V Micro Metal Gearmotors, which offer a good combination of speed and controllability.</p>\n<table class=\"side_by_side_pics\">\n\t<tr>\n\t\t<td><table class=\"picture_with_caption center\"><tr><td><a href=\"/picture/0J12003.1200.jpg?afe1131c6d71cc10bc34d0244f259d84\" class=\"noscript-fallback\"><img alt=\"\" class=\"zoomable\" data-gallery-pictures=\"[{&quot;id&quot;:&quot;0J12003&quot;,&quot;caption&quot;:&quot;\\u003cp\\u003e3pi+ 2040 Robot.\\u003c/p\\u003e&quot;,&quot;url_tiny&quot;:&quot;/picture/0J12003.98x98.jpg?afe1131c6d71cc10bc34d0244f259d84&quot;,&quot;url_medium&quot;:&quot;/picture/0J12003.600x480.jpg?afe1131c6d71cc10bc34d0244f259d84&quot;,&quot;url_full&quot;:&quot;/picture/0J12003.1200.jpg?afe1131c6d71cc10bc34d0244f259d84&quot;,&quot;longest_side&quot;:1200}]\" data-picture-id=\"0J12003\" data-picture-longest_side=\"1200\" src=\"/picture/0J12003.300.jpg?afe1131c6d71cc10bc34d0244f259d84\" /></a></td></tr></table></td>\n\t\t<td><table class=\"picture_with_caption center\"><tr><td><a href=\"/picture/0J12004.1200.jpg?07afa5011cbcaec1e3345563bcbf328a\" class=\"noscript-fallback\"><img alt=\"\" class=\"zoomable\" data-gallery-pictures=\"[{&quot;id&quot;:&quot;0J12004&quot;,&quot;caption&quot;:&quot;\\u003cp\\u003e3pi+ 2040 Robot, rear view.\\u003c/p\\u003e&quot;,&quot;url_tiny&quot;:&quot;/picture/0J12004.98x98.jpg?07afa5011cbcaec1e3345563bcbf328a&quot;,&quot;url_medium&quot;:&quot;/picture/0J12004.600x480.jpg?07afa5011cbcaec1e3345563bcbf328a&quot;,&quot;url_full&quot;:&quot;/picture/0J12004.1200.jpg?07afa5011cbcaec1e3345563bcbf328a&quot;,&quot;longest_side&quot;:1200}]\" data-picture-id=\"0J12004\" data-picture-longest_side=\"1200\" src=\"/picture/0J12004.300.jpg?07afa5011cbcaec1e3345563bcbf328a\" /></a></td></tr></table></td>\n\t</tr>\n</table>\n<p class=\"note\">A <a href=\"https://www.pololu.com/product/5004\">kit version</a> of this robot is also available.</p>\n\n",
+            "discontinued": false,
+            "discontinued_description": "",
             "unavailable_notes": "",
+            "description_for_customs": "",
+            "country_of_origin": "USA",
+            "for_sale": true,
+            "for_sale_with_coupon_only": false,
+            "price_description": "",
+            "weight_ounces": "5.4",
+            "size_1_inches": "4.6",
+            "size_2_inches": "4.2",
+            "size_3_inches": "2.2",
+            "free_shipping_usa": true,
+            "free_add_on_shipping_usa": false,
+            "suggested_schedule_b_code": "8542.31.0000",
+            "suggested_hs_code": "854231",
+            "product_family_id": "0J5001",
+            "url": "https://www.pololu.com/product/5001",
             "on_sale_through": null,
             "prices": [
                 {
@@ -30,36 +53,16 @@
                     "regular_price": 147.15
                 }
             ],
-            "stock_available": 15,
+            "stock_available": 97,
             "non_stock": false,
-            "maximum_order": 315,
-            "modification_time": "2023-05-24T16:02:06.000-07:00",
-            "name": "3pi+ 2040 Robot - Standard Edition (30:1 MP Motors), Assembled",
-            "status": "Active and Preferred",
-            "rohs3_compliant": "yes",
-            "short_description": "<p>The Pololu 3pi+ 2040 robot is a palm-sized, high-performance mobile platform based on the Raspberry Pi RP2040 MCU.  Its many features include dual quadrature encoders for closed-loop speed or position control, line sensors, front bump sensors, a full IMU (3-axis accelerometer, magnetometer, and gyro), six RGB LEDs, and a graphical OLED display.  This <strong>Standard Edition</strong> version is assembled with 30:1 MP 6V Micro Metal Gearmotors, which offer a good combination of speed and controllability.</p>\n",
-            "web_page": "<h2>Overview</h2>\n<p>The 3pi+ 2040 is a versatile, high-performance, user-programmable robot that measures just 9.7&nbsp;cm (3.8″) in diameter.  At its heart is a Raspberry Pi RP2040 microcontroller (like the one on the Raspberry Pi Pico), a 32-bit dual-core Arm Cortex-M0+ processor running at 125 MHz, which can be programmed with C, C++, Arduino, or Python.  The 3pi+ 2040 has 16 MB (128 Mbit) of flash memory that ships preloaded with a MicroPython interpreter, so you can get started right away by plugging into its USB C port and editing the included example Python programs.  For advanced users who want to customize or enhance their robots with additional peripherals, the robot&#8217;s power rails, power system controls, and microcontroller&#8217;s I/O lines can be accessed via several 0.1″-pitch expansion ports.</p>\n<table class=\"side_by_side_pics\">\n\t<tr>\n\t\t<td><table class=\"picture_with_caption right\"><tr><td style=\"max-width: 220px\"><a href=\"https://a.pololu-files.com/picture/0J12006.1200.jpg?6393c76c25b38cfddb9bce3ac10428fe\" class=\"noscript-fallback\"><img alt=\"\" class=\"zoomable\" data-gallery-pictures=\"[{&quot;id&quot;:&quot;0J12006&quot;,&quot;caption&quot;:&quot;\\u003cp\\u003e3pi+ 2040 Robot, front view.\\u003c/p\\u003e&quot;,&quot;url_tiny&quot;:&quot;https://a.pololu-files.com/picture/0J12006.98x98.jpg?6393c76c25b38cfddb9bce3ac10428fe&quot;,&quot;url_medium&quot;:&quot;https://a.pololu-files.com/picture/0J12006.600x480.jpg?6393c76c25b38cfddb9bce3ac10428fe&quot;,&quot;url_full&quot;:&quot;https://a.pololu-files.com/picture/0J12006.1200.jpg?6393c76c25b38cfddb9bce3ac10428fe&quot;,&quot;longest_side&quot;:1200}]\" data-picture-id=\"0J12006\" data-picture-longest_side=\"1200\" src=\"https://a.pololu-files.com/picture/0J12006.220.jpg?6393c76c25b38cfddb9bce3ac10428fe\" /></a></td></tr><tr><th style=\"max-width: 220px\"><p>3pi+ 2040 Robot, front view.</p></th></tr></table></td>\n\t\t<td><table class=\"picture_with_caption right\"><tr><td style=\"max-width: 220px\"><a href=\"https://a.pololu-files.com/picture/0J12007.1200.jpg?c4b69707ad345a134bbe042997da7ecc\" class=\"noscript-fallback\"><img alt=\"\" class=\"zoomable\" data-gallery-pictures=\"[{&quot;id&quot;:&quot;0J12007&quot;,&quot;caption&quot;:&quot;\\u003cp\\u003e3pi+ 2040 Robot, side view.\\u003c/p\\u003e&quot;,&quot;url_tiny&quot;:&quot;https://a.pololu-files.com/picture/0J12007.98x98.jpg?c4b69707ad345a134bbe042997da7ecc&quot;,&quot;url_medium&quot;:&quot;https://a.pololu-files.com/picture/0J12007.600x480.jpg?c4b69707ad345a134bbe042997da7ecc&quot;,&quot;url_full&quot;:&quot;https://a.pololu-files.com/picture/0J12007.1200.jpg?c4b69707ad345a134bbe042997da7ecc&quot;,&quot;longest_side&quot;:1200}]\" data-picture-id=\"0J12007\" data-picture-longest_side=\"1200\" src=\"https://a.pololu-files.com/picture/0J12007.220.jpg?c4b69707ad345a134bbe042997da7ecc\" /></a></td></tr><tr><th style=\"max-width: 220px\"><p>3pi+ 2040 Robot, side view.</p></th></tr></table></td>\n\t\t<td><table class=\"picture_with_caption right\"><tr><td style=\"max-width: 220px\"><a href=\"https://a.pololu-files.com/picture/0J12008.1200.jpg?e92efa8b917af15352a391274b2d8177\" class=\"noscript-fallback\"><img alt=\"\" class=\"zoomable\" data-gallery-pictures=\"[{&quot;id&quot;:&quot;0J12008&quot;,&quot;caption&quot;:&quot;\\u003cp\\u003e3pi+ 2040 Robot, rear view.\\u003c/p\\u003e&quot;,&quot;url_tiny&quot;:&quot;https://a.pololu-files.com/picture/0J12008.98x98.jpg?e92efa8b917af15352a391274b2d8177&quot;,&quot;url_medium&quot;:&quot;https://a.pololu-files.com/picture/0J12008.600x480.jpg?e92efa8b917af15352a391274b2d8177&quot;,&quot;url_full&quot;:&quot;https://a.pololu-files.com/picture/0J12008.1200.jpg?e92efa8b917af15352a391274b2d8177&quot;,&quot;longest_side&quot;:1200}]\" data-picture-id=\"0J12008\" data-picture-longest_side=\"1200\" src=\"https://a.pololu-files.com/picture/0J12008.220.jpg?e92efa8b917af15352a391274b2d8177\" /></a></td></tr><tr><th style=\"max-width: 220px\"><p>3pi+ 2040 Robot, rear view.</p></th></tr></table></td>\n\t</tr>\n</table>\n<p>The 3pi+ (or 3&#120587;+) 2040 features two H-bridge motor drivers and a variety of integrated sensors, including a pair of quadrature encoders for closed-loop motor control, a complete inertial measurement unit (3-axis accelerometer, gyro, and magnetometer), five downward-facing reflectance sensors for line-following or edge-detection, and left and right bump sensors along the front face of the robot. Three on-board pushbuttons offer a convenient interface for user input, and a 128×64 graphical OLED display, buzzer, and six RGB LEDs allow the robot to provide feedback.</p>\n<table class=\"picture_with_caption center wide\"><tr><td><a href=\"https://a.pololu-files.com/picture/0J12017.1200.jpg?d1c609085b6b7fe8ca0e44a8ea946d2e\" class=\"noscript-fallback\"><img alt=\"\" class=\"wide zoomable\" data-gallery-pictures=\"[{&quot;id&quot;:&quot;0J12017&quot;,&quot;caption&quot;:&quot;\\u003cp\\u003e3pi+ 2040 Robot features, top view.\\u003c/p\\u003e&quot;,&quot;url_tiny&quot;:&quot;https://a.pololu-files.com/picture/0J12017.98x98.jpg?d1c609085b6b7fe8ca0e44a8ea946d2e&quot;,&quot;url_medium&quot;:&quot;https://a.pololu-files.com/picture/0J12017.600x480.jpg?d1c609085b6b7fe8ca0e44a8ea946d2e&quot;,&quot;url_full&quot;:&quot;https://a.pololu-files.com/picture/0J12017.1200.jpg?d1c609085b6b7fe8ca0e44a8ea946d2e&quot;,&quot;longest_side&quot;:1200}]\" data-picture-id=\"0J12017\" data-picture-longest_side=\"1200\" src=\"https://a.pololu-files.com/picture/0J12017.700.jpg?d1c609085b6b7fe8ca0e44a8ea946d2e\" /></a></td><p></tr></table>\n<table class=\"picture_with_caption center wide\"><tr><td><a href=\"https://a.pololu-files.com/picture/0J12018.1200.jpg?40bb0a53e13fc25df4b5bda1dc77d390\" class=\"noscript-fallback\"><img alt=\"\" class=\"wide zoomable\" data-gallery-pictures=\"[{&quot;id&quot;:&quot;0J12018&quot;,&quot;caption&quot;:&quot;\\u003cp\\u003e3pi+ 2040 Robot features, bottom view.\\u003c/p\\u003e&quot;,&quot;url_tiny&quot;:&quot;https://a.pololu-files.com/picture/0J12018.98x98.jpg?40bb0a53e13fc25df4b5bda1dc77d390&quot;,&quot;url_medium&quot;:&quot;https://a.pololu-files.com/picture/0J12018.600x480.jpg?40bb0a53e13fc25df4b5bda1dc77d390&quot;,&quot;url_full&quot;:&quot;https://a.pololu-files.com/picture/0J12018.1200.jpg?40bb0a53e13fc25df4b5bda1dc77d390&quot;,&quot;longest_side&quot;:1200}]\" data-picture-id=\"0J12018\" data-picture-longest_side=\"1200\" src=\"https://a.pololu-files.com/picture/0J12018.700.jpg?40bb0a53e13fc25df4b5bda1dc77d390\" /></a></td></tr></table></p>\n<p>The robot also features a unique power system that runs the motors at a constant 8&nbsp;V independent of the battery charge level, so the speed of the motors does not vary with the battery voltage.</p>\n<p>The 3pi+ 2040 robot is available as a kit or fully assembled:</p>\n<table style=\"line-height:100%; text-align: right;\" class=\"reference\">\n\t<tr style=\"line-height: 150%;\">\n\t\t<th>3pi+ 2040 Version</th>\n\t\t<th>Products</th>\n\t\t<th>Micro Metal Gearmotor</th>\n\t\t<th>Top Speed</th>\n\t\t<th>Comments</th>\n\t</tr>\n\t<tr>\n\t\t<th>Standard Edition</th>\n\t\t<td style=\"text-align:center;\"><a href=\"https://www.pololu.com/product/5001\">assembled</a> or&nbsp;<a href=\"https://www.pololu.com/product/5004\">kit</a></td>\n\t\t<td style=\"text-align:center;\"><a href=\"https://www.pololu.com/product/2378\">30:1 MP 6V</a></td>\n\t\t<td>1.5&nbsp;m/s</td>\n\t\t<td style=\"text-align:left;\">good combination of speed and controllability</td>\n\t</tr>\n\t<tr>\n\t\t<th>Turtle Edition</th>\n\t\t<td style=\"text-align:center;\"><a href=\"https://www.pololu.com/product/5002\">assembled</a> or&nbsp;<a href=\"https://www.pololu.com/product/5005\">kit</a></td>\n\t\t<td style=\"text-align:center;\"><a href=\"https://www.pololu.com/product/2209\">75:1 LP 6V</a></td>\n\t\t<td>0.4&nbsp;m/s</td>\n\t\t<td style=\"text-align:left;\">longest battery life, easiest to control, good for swarm robots or introductory robotics courses</td>\n\t</tr>\n\t<tr>\n\t\t<th>Hyper Edition</th>\n\t\t<td style=\"text-align:center;\"><a href=\"https://www.pololu.com/product/5000\">assembled</a> or&nbsp;<a href=\"https://www.pololu.com/product/5003\">kit</a></td>\n\t\t<td style=\"text-align:center;\"><a href=\"https://www.pololu.com/product/4787\">15:1 HPCB 6V</a></td>\n\t\t<td>~4&nbsp;m/s</td>\n\t\t<td style=\"text-align:left;\"><strong>very fast and difficult to control, easy to damage</strong>; only recommended for advanced users</td>\n\t</tr>\n</table>\n<p>For those who would prefer to use <a href=\"https://www.pololu.com/category/141/micro-metal-gearmotors-with-extended-motor-shafts\">different motors</a> than these versions above, the <a href=\"https://www.pololu.com/product/3725\">3pi+ chassis</a> and <a href=\"https://www.pololu.com/product/5006\">3pi+ 2040 control board</a> are available separately and can be combined with a pair of motors to make a custom kit.</p>\n<h3>What else you will need</h3>\n<ul>\n\t<li>four <a href=\"https://www.pololu.com/product/1002\">AAA batteries</a>: the 3pi+ robot works with both alkaline and NiMH batteries, though we recommend rechargeable NiMH cells</li>\n\t<li>a USB C cable to connect the robot to your computer for programming and debugging</li>\n</ul>\n<h3>Assembling the kit version</h3>\n<p>The following video shows the steps to assemble a different version of the 3pi+ robot (the <a href=\"https://www.pololu.com/category/280/3pi-plus-32u4-oled-robot\">3pi+ 32U4 OLED robot</a>), but these steps generally remain the same for the 3pi+ 2040:</p>\n<div class=\"center\"><div class=\"video video_16_9\"><div>\n<iframe id=\"ytplayer\" type=\"text/html\" src=\"https://www.youtube.com/embed/D6UmjlBW8Ns?fs-1&rel=0&wmode=transparent\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>\n</div></div></div><p><br></p>\n<h2>\nDetails for item #5001\n</h2>\n<p>This product is the assembled <strong>Standard Edition</strong> of the 3pi+ 2040 Robot.  It features 30:1 MP 6V Micro Metal Gearmotors, which offer a good combination of speed and controllability.</p>\n<table class=\"side_by_side_pics\">\n\t<tr>\n\t\t<td><table class=\"picture_with_caption center\"><tr><td><a href=\"https://a.pololu-files.com/picture/0J12003.1200.jpg?afe1131c6d71cc10bc34d0244f259d84\" class=\"noscript-fallback\"><img alt=\"\" class=\"zoomable\" data-gallery-pictures=\"[{&quot;id&quot;:&quot;0J12003&quot;,&quot;caption&quot;:&quot;\\u003cp\\u003e3pi+ 2040 Robot.\\u003c/p\\u003e&quot;,&quot;url_tiny&quot;:&quot;https://a.pololu-files.com/picture/0J12003.98x98.jpg?afe1131c6d71cc10bc34d0244f259d84&quot;,&quot;url_medium&quot;:&quot;https://a.pololu-files.com/picture/0J12003.600x480.jpg?afe1131c6d71cc10bc34d0244f259d84&quot;,&quot;url_full&quot;:&quot;https://a.pololu-files.com/picture/0J12003.1200.jpg?afe1131c6d71cc10bc34d0244f259d84&quot;,&quot;longest_side&quot;:1200}]\" data-picture-id=\"0J12003\" data-picture-longest_side=\"1200\" src=\"https://a.pololu-files.com/picture/0J12003.300.jpg?afe1131c6d71cc10bc34d0244f259d84\" /></a></td></tr></table></td>\n\t\t<td><table class=\"picture_with_caption center\"><tr><td><a href=\"https://a.pololu-files.com/picture/0J12004.1200.jpg?07afa5011cbcaec1e3345563bcbf328a\" class=\"noscript-fallback\"><img alt=\"\" class=\"zoomable\" data-gallery-pictures=\"[{&quot;id&quot;:&quot;0J12004&quot;,&quot;caption&quot;:&quot;\\u003cp\\u003e3pi+ 2040 Robot, rear view.\\u003c/p\\u003e&quot;,&quot;url_tiny&quot;:&quot;https://a.pololu-files.com/picture/0J12004.98x98.jpg?07afa5011cbcaec1e3345563bcbf328a&quot;,&quot;url_medium&quot;:&quot;https://a.pololu-files.com/picture/0J12004.600x480.jpg?07afa5011cbcaec1e3345563bcbf328a&quot;,&quot;url_full&quot;:&quot;https://a.pololu-files.com/picture/0J12004.1200.jpg?07afa5011cbcaec1e3345563bcbf328a&quot;,&quot;longest_side&quot;:1200}]\" data-picture-id=\"0J12004\" data-picture-longest_side=\"1200\" src=\"https://a.pololu-files.com/picture/0J12004.300.jpg?07afa5011cbcaec1e3345563bcbf328a\" /></a></td></tr></table></td>\n\t</tr>\n</table>\n<p class=\"note\">A <a href=\"https://www.pololu.com/product/5004\">kit version</a> of this robot is also available.</p>\n\n",
-            "discontinued": false,
-            "discontinued_description": "",
-            "description_for_customs": "",
-            "country_of_origin": "USA",
-            "for_sale": true,
-            "for_sale_with_coupon_only": false,
-            "price_description": "",
-            "weight_ounces": "5.4",
-            "free_shipping_usa": true,
-            "free_add_on_shipping_usa": false,
-            "suggested_schedule_b_code": "8542.31.0000",
-            "suggested_hs_code": "854231",
-            "product_family_id": "0J5001",
-            "url": "https://www.pololu.com/product/5001",
             "bar_codes": [
                 {
                     "bar_code": "!a\"X9",
                     "start_selling_year": null,
                     "stop_selling_year": null
                 }
-            ]
+            ],
+            "maximum_order": 397
         },
         "relationships": {
             "brand": {
@@ -154,11 +157,11 @@
                     },
                     {
                         "type": "resource",
-                        "id": "18P0J1940"
+                        "id": "18P0J1941"
                     },
                     {
                         "type": "resource",
-                        "id": "18P0J1941"
+                        "id": "18P0J1940"
                     },
                     {
                         "type": "resource",
@@ -194,6 +197,10 @@
                     },
                     {
                         "type": "resource",
+                        "id": "32P0J705"
+                    },
+                    {
+                        "type": "resource",
                         "id": "110P0J942"
                     },
                     {
@@ -213,6 +220,10 @@
                     {
                         "type": "category",
                         "id": "300"
+                    },
+                    {
+                        "type": "category",
+                        "id": "4"
                     }
                 ]
             },
@@ -224,59 +235,27 @@
                     },
                     {
                         "type": "category",
+                        "id": "4"
+                    },
+                    {
+                        "type": "category",
                         "id": "280"
                     },
                     {
                         "type": "category",
-                        "id": "60"
+                        "id": "141"
                     },
                     {
                         "type": "category",
-                        "id": "7"
+                        "id": "189"
                     },
                     {
                         "type": "category",
-                        "id": "65"
+                        "id": "19"
                     },
                     {
                         "type": "category",
-                        "id": "71"
-                    },
-                    {
-                        "type": "category",
-                        "id": "70"
-                    },
-                    {
-                        "type": "category",
-                        "id": "81"
-                    },
-                    {
-                        "type": "category",
-                        "id": "50"
-                    },
-                    {
-                        "type": "category",
-                        "id": "134"
-                    },
-                    {
-                        "type": "category",
-                        "id": "101"
-                    },
-                    {
-                        "type": "category",
-                        "id": "5"
-                    },
-                    {
-                        "type": "category",
-                        "id": "202"
-                    },
-                    {
-                        "type": "category",
-                        "id": "210"
-                    },
-                    {
-                        "type": "category",
-                        "id": "170"
+                        "id": "308"
                     }
                 ]
             },
@@ -372,6 +351,10 @@
                     },
                     {
                         "type": "specification",
+                        "id": "0J26217"
+                    },
+                    {
+                        "type": "specification",
                         "id": "0J25176"
                     },
                     {
@@ -409,7 +392,7 @@
             "type": "picture",
             "id": "0J12003",
             "attributes": {
-                "url": "https://a.pololu-files.com/picture/0J12003.1200.jpg?afe1131c6d71cc10bc34d0244f259d84",
+                "url": "/picture/0J12003.1200.jpg?afe1131c6d71cc10bc34d0244f259d84",
                 "caption": "3pi+ 2040 Robot.",
                 "has_watermark": false
             }
@@ -421,7 +404,7 @@
             "type": "picture",
             "id": "0J12004",
             "attributes": {
-                "url": "https://a.pololu-files.com/picture/0J12004.1200.jpg?07afa5011cbcaec1e3345563bcbf328a",
+                "url": "/picture/0J12004.1200.jpg?07afa5011cbcaec1e3345563bcbf328a",
                 "caption": "3pi+ 2040 Robot, rear view.",
                 "has_watermark": false
             }
@@ -433,7 +416,7 @@
             "type": "picture",
             "id": "0J12005",
             "attributes": {
-                "url": "https://a.pololu-files.com/picture/0J12005.1200.jpg?eed9015770f5764d7c9e6ae1684a0609",
+                "url": "/picture/0J12005.1200.jpg?eed9015770f5764d7c9e6ae1684a0609",
                 "caption": "3pi+ 2040 Robot fits in the palm of a hand.",
                 "has_watermark": false
             }
@@ -445,7 +428,7 @@
             "type": "picture",
             "id": "0J12019",
             "attributes": {
-                "url": "https://a.pololu-files.com/picture/0J12019.1200.jpg?cab195d37b5536136110cf943d5e673d",
+                "url": "/picture/0J12019.1200.jpg?cab195d37b5536136110cf943d5e673d",
                 "caption": "3pi+ 2040 Robot features.",
                 "has_watermark": false
             }
@@ -457,7 +440,7 @@
             "type": "picture",
             "id": "0J12006",
             "attributes": {
-                "url": "https://a.pololu-files.com/picture/0J12006.1200.jpg?6393c76c25b38cfddb9bce3ac10428fe",
+                "url": "/picture/0J12006.1200.jpg?6393c76c25b38cfddb9bce3ac10428fe",
                 "caption": "3pi+ 2040 Robot, front view.",
                 "has_watermark": false
             }
@@ -469,7 +452,7 @@
             "type": "picture",
             "id": "0J12007",
             "attributes": {
-                "url": "https://a.pololu-files.com/picture/0J12007.1200.jpg?c4b69707ad345a134bbe042997da7ecc",
+                "url": "/picture/0J12007.1200.jpg?c4b69707ad345a134bbe042997da7ecc",
                 "caption": "3pi+ 2040 Robot, side view.",
                 "has_watermark": false
             }
@@ -481,7 +464,7 @@
             "type": "picture",
             "id": "0J12008",
             "attributes": {
-                "url": "https://a.pololu-files.com/picture/0J12008.1200.jpg?e92efa8b917af15352a391274b2d8177",
+                "url": "/picture/0J12008.1200.jpg?e92efa8b917af15352a391274b2d8177",
                 "caption": "3pi+ 2040 Robot, rear view.",
                 "has_watermark": false
             }
@@ -493,7 +476,7 @@
             "type": "picture",
             "id": "0J12009",
             "attributes": {
-                "url": "https://a.pololu-files.com/picture/0J12009.1200.jpg?cf3eba548f3c28c351e15a918ca9211a",
+                "url": "/picture/0J12009.1200.jpg?cf3eba548f3c28c351e15a918ca9211a",
                 "caption": "3pi+ 2040 Robot, top view.",
                 "has_watermark": false
             }
@@ -505,7 +488,7 @@
             "type": "picture",
             "id": "0J12010",
             "attributes": {
-                "url": "https://a.pololu-files.com/picture/0J12010.1200.jpg?fb7db82edc7f035af37c12091676ff60",
+                "url": "/picture/0J12010.1200.jpg?fb7db82edc7f035af37c12091676ff60",
                 "caption": "3pi+ 2040 Robot, top view with OLED display removed.",
                 "has_watermark": false
             }
@@ -517,7 +500,7 @@
             "type": "picture",
             "id": "0J12011",
             "attributes": {
-                "url": "https://a.pololu-files.com/picture/0J12011.1200.jpg?b73c369bba6f54581f50f19cb8361d18",
+                "url": "/picture/0J12011.1200.jpg?b73c369bba6f54581f50f19cb8361d18",
                 "caption": "3pi+ 2040 Robot, bottom view.",
                 "has_watermark": false
             }
@@ -529,7 +512,7 @@
             "type": "picture",
             "id": "0J12012",
             "attributes": {
-                "url": "https://a.pololu-files.com/picture/0J12012.1200.jpg?01aa1a884f3176ec125b63e3513dcecb",
+                "url": "/picture/0J12012.1200.jpg?01aa1a884f3176ec125b63e3513dcecb",
                 "caption": "The 3pi+ 2040 Robot is powered by four AAA batteries (not included).",
                 "has_watermark": false
             }
@@ -541,7 +524,7 @@
             "type": "picture",
             "id": "0J12013",
             "attributes": {
-                "url": "https://a.pololu-files.com/picture/0J12013.1200.jpg?07d5ad8b5f9fc65569759bad0b080281",
+                "url": "/picture/0J12013.1200.jpg?07d5ad8b5f9fc65569759bad0b080281",
                 "caption": "3pi+ 2040 Robot, bottom view with battery compartment covers removed.",
                 "has_watermark": false
             }
@@ -553,7 +536,7 @@
             "type": "picture",
             "id": "0J12014",
             "attributes": {
-                "url": "https://a.pololu-files.com/picture/0J12014.1200.jpg?fb4a40a138f61aaf525e149cdc2613c7",
+                "url": "/picture/0J12014.1200.jpg?fb4a40a138f61aaf525e149cdc2613c7",
                 "caption": "3pi+ 2040 Robot, bottom view.",
                 "has_watermark": false
             }
@@ -565,7 +548,7 @@
             "type": "picture",
             "id": "0J12015",
             "attributes": {
-                "url": "https://a.pololu-files.com/picture/0J12015.1200.jpg?a36c279dd50e155efee7f0f13dbe4e46",
+                "url": "/picture/0J12015.1200.jpg?a36c279dd50e155efee7f0f13dbe4e46",
                 "caption": "3pi+ 2040 Robot, bottom view with batteries installed (batteries not included).",
                 "has_watermark": false
             }
@@ -577,7 +560,7 @@
             "type": "picture",
             "id": "0J12016",
             "attributes": {
-                "url": "https://a.pololu-files.com/picture/0J12016.1200.jpg?365c177adb123727a2c37a9d6912c821",
+                "url": "/picture/0J12016.1200.jpg?365c177adb123727a2c37a9d6912c821",
                 "caption": "3pi+ 2040 Robot, bottom view showing the insides of the battery compartments.",
                 "has_watermark": false
             }
@@ -589,7 +572,7 @@
             "type": "picture",
             "id": "0J12020",
             "attributes": {
-                "url": "https://a.pololu-files.com/picture/0J12020.1200.jpg?92432387f54a3db7a07408489c8e6f5d",
+                "url": "/picture/0J12020.1200.jpg?92432387f54a3db7a07408489c8e6f5d",
                 "caption": "3pi+ 2040 Control Board pinout and peripherals.",
                 "has_watermark": false
             }
@@ -601,7 +584,7 @@
             "type": "picture",
             "id": "0J12021",
             "attributes": {
-                "url": "https://a.pololu-files.com/picture/0J12021.1200.jpg?e1ce9b6745a681a9e97781951cba89fb",
+                "url": "/picture/0J12021.1200.jpg?e1ce9b6745a681a9e97781951cba89fb",
                 "caption": "3pi+ 2040 Control Board power distribution and control.",
                 "has_watermark": false
             }
@@ -621,19 +604,6 @@
         },
         {
             "links": {
-                "self": "https://www.pololu.com/api/v2/resource/18P0J1940.json"
-            },
-            "type": "resource",
-            "id": "18P0J1940",
-            "attributes": {
-                "name": "Schematic diagram of the 3pi+ 2040 Control Board",
-                "url": "/file/0J1940/3pi-2040-control-board-schematic.pdf",
-                "download_url": "/file/0J1940/3pi-2040-control-board-schematic.pdf",
-                "description": ""
-            }
-        },
-        {
-            "links": {
                 "self": "https://www.pololu.com/api/v2/resource/18P0J1941.json"
             },
             "type": "resource",
@@ -642,6 +612,19 @@
                 "name": "Pinout and power distribution diagrams of the 3pi+ 2040 Control Board",
                 "url": "/file/0J1941/3pi-2040-control-board-pinout.pdf",
                 "download_url": "/file/0J1941/3pi-2040-control-board-pinout.pdf",
+                "description": ""
+            }
+        },
+        {
+            "links": {
+                "self": "https://www.pololu.com/api/v2/resource/18P0J1940.json"
+            },
+            "type": "resource",
+            "id": "18P0J1940",
+            "attributes": {
+                "name": "Schematic diagram of the 3pi+ 2040 Control Board",
+                "url": "/file/0J1940/3pi-2040-control-board-schematic.pdf",
+                "download_url": "/file/0J1940/3pi-2040-control-board-schematic.pdf",
                 "description": ""
             }
         },
@@ -751,6 +734,19 @@
         },
         {
             "links": {
+                "self": "https://www.pololu.com/api/v2/resource/32P0J705.json"
+            },
+            "type": "resource",
+            "id": "32P0J705",
+            "attributes": {
+                "name": "Pololu3piPlus2040 Arduino library by Adam Green",
+                "url": "https://github.com/adamgreen/pololu-3pi-plus-2040-arduino-library",
+                "download_url": null,
+                "description": "A full-featured Arduino library for the Pololu 3pi+ 2040 Robot developed by customer Adam Green."
+            }
+        },
+        {
+            "links": {
                 "self": "https://www.pololu.com/api/v2/resource/110P0J942.json"
             },
             "type": "resource",
@@ -787,6 +783,16 @@
         },
         {
             "links": {
+                "self": "https://www.pololu.com/api/v2/category/4.json"
+            },
+            "type": "category",
+            "id": "4",
+            "attributes": {
+                "name": "Robot Kits without Soldering"
+            }
+        },
+        {
+            "links": {
                 "self": "https://www.pololu.com/api/v2/category/280.json"
             },
             "type": "category",
@@ -797,132 +803,42 @@
         },
         {
             "links": {
-                "self": "https://www.pololu.com/api/v2/category/60.json"
+                "self": "https://www.pololu.com/api/v2/category/141.json"
             },
             "type": "category",
-            "id": "60",
+            "id": "141",
             "attributes": {
-                "name": "Micro Metal Gearmotors"
+                "name": "Micro Metal Gearmotors with Extended Motor Shafts"
             }
         },
         {
             "links": {
-                "self": "https://www.pololu.com/api/v2/category/7.json"
+                "self": "https://www.pololu.com/api/v2/category/189.json"
             },
             "type": "category",
-            "id": "7",
+            "id": "189",
             "attributes": {
-                "name": "Sensors"
+                "name": "Proximity Sensors and Range Finders"
             }
         },
         {
             "links": {
-                "self": "https://www.pololu.com/api/v2/category/65.json"
+                "self": "https://www.pololu.com/api/v2/category/19.json"
             },
             "type": "category",
-            "id": "65",
+            "id": "19",
             "attributes": {
-                "name": "Premium Jumper Wires"
+                "name": "Connectors"
             }
         },
         {
             "links": {
-                "self": "https://www.pololu.com/api/v2/category/71.json"
+                "self": "https://www.pololu.com/api/v2/category/308.json"
             },
             "type": "category",
-            "id": "71",
+            "id": "308",
             "attributes": {
-                "name": "Wires with Pre-Crimped Terminals"
-            }
-        },
-        {
-            "links": {
-                "self": "https://www.pololu.com/api/v2/category/70.json"
-            },
-            "type": "category",
-            "id": "70",
-            "attributes": {
-                "name": "Crimp Connector Housings"
-            }
-        },
-        {
-            "links": {
-                "self": "https://www.pololu.com/api/v2/category/81.json"
-            },
-            "type": "category",
-            "id": "81",
-            "attributes": {
-                "name": "Switches, Buttons, and Relays"
-            }
-        },
-        {
-            "links": {
-                "self": "https://www.pololu.com/api/v2/category/50.json"
-            },
-            "type": "category",
-            "id": "50",
-            "attributes": {
-                "name": "0.1″ (2.54 mm) Female Headers"
-            }
-        },
-        {
-            "links": {
-                "self": "https://www.pololu.com/api/v2/category/134.json"
-            },
-            "type": "category",
-            "id": "134",
-            "attributes": {
-                "name": "0.1″ (2.54 mm) Male Headers"
-            }
-        },
-        {
-            "links": {
-                "self": "https://www.pololu.com/api/v2/category/101.json"
-            },
-            "type": "category",
-            "id": "101",
-            "attributes": {
-                "name": "Nuts and Screws"
-            }
-        },
-        {
-            "links": {
-                "self": "https://www.pololu.com/api/v2/category/5.json"
-            },
-            "type": "category",
-            "id": "5",
-            "attributes": {
-                "name": "Tools"
-            }
-        },
-        {
-            "links": {
-                "self": "https://www.pololu.com/api/v2/category/202.json"
-            },
-            "type": "category",
-            "id": "202",
-            "attributes": {
-                "name": "Romi Chassis and Accessories"
-            }
-        },
-        {
-            "links": {
-                "self": "https://www.pololu.com/api/v2/category/210.json"
-            },
-            "type": "category",
-            "id": "210",
-            "attributes": {
-                "name": "Balboa Robot and Accessories"
-            }
-        },
-        {
-            "links": {
-                "self": "https://www.pololu.com/api/v2/category/170.json"
-            },
-            "type": "category",
-            "id": "170",
-            "attributes": {
-                "name": "Zumo 32U4 OLED Robot"
+                "name": "Zumo 2040 Robot"
             }
         },
         {
@@ -1142,6 +1058,18 @@
             "attributes": {
                 "parameter_name": "program memory size",
                 "text_value": "16 Mbytes",
+                "footnote": ""
+            }
+        },
+        {
+            "links": {
+                "self": "https://www.pololu.com/api/v2/specification/0J26217.json"
+            },
+            "type": "specification",
+            "id": "0J26217",
+            "attributes": {
+                "parameter_name": "external programmer required?",
+                "text_value": "N",
                 "footnote": ""
             }
         },
