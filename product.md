@@ -42,13 +42,13 @@ a special product that requires a coupon to be purchased.
 light products we have instead entered "dimensional weight".
 
 `size_1_inches` - The first dimension (could be called "length") of the packaged
-product, in inches.
+product, in inches.  Zero if unavailable.
 
 `size_2_inches` - The second dimension ("width") of the packaged
-product, in inches.
+product, in inches.  Zero if unavailable.
 
 `size_3_inches` - The third dimension ("height") of the packaged
-product, in inches.
+product, in inches.  Zero if unavailable.
 
 `suggested_schedule_b_code` - Our recommended code for exporting from
 the United States.
