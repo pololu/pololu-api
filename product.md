@@ -39,8 +39,16 @@ invoices and customs forms to describe the type of product.
 a special product that requires a coupon to be purchased.
 
 `weight_ounces` - The product weight, in ounces.  **Note:** for a few
-light products we have instead entered "dimensional weight".  Actual
-product dimensions are currently unavailable.
+light products we have instead entered "dimensional weight".
+
+`size_1_inches` - The first dimension (could be called "length") of the packaged
+product, in inches.
+
+`size_2_inches` - The second dimension ("width") of the packaged
+product, in inches.
+
+`size_3_inches` - The third dimension ("height") of the packaged
+product, in inches.
 
 `suggested_schedule_b_code` - Our recommended code for exporting from
 the United States.
